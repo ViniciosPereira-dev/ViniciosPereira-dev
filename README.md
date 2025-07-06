@@ -1,16 +1,20 @@
-# Vinicios Rosa Pereira
+# 👨‍💻 Vinicios Pereira
 
-🎓 Estudante de DSM na FATEC Votorantim  
-💻 Foco em desenvolvimento Front-End (HTML, CSS, JavaScript)  
-🚀 Buscando minha primeira oportunidade como estagiário ou dev júnior  
+🎓 Estudante de DSM | FATEC Votorantim  
+💻 Front-End: HTML, CSS, JavaScript  
+🚀 Em busca da primeira vaga como Estagiário ou Dev Júnior
 
-## Projetos em destaque
+---
 
-- [Calculadora de IMC] – HTML, CSS e JS puro  
-- Projeto com APIs – ViaCep | OpenWeather |   
+## 📌 Projetos
 
+- 🔢 [Calculadora de IMC](https://github.com/ViniciosPereira-dev/calculadora-imc)
+- 🌐 Projeto com API de clima e bandeiras
+- 💡Projeto - Portifolio (em breve)
 
-## Contato
+---
 
-📧 viniciosrp.dev@hotmail.com
+## 🌐 Contato
+
+📧 viniciosrp.dev@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vinicios-rosa-182360351)
