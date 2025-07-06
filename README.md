@@ -6,7 +6,7 @@
 
 ## Projetos em destaque
 
-- [Calculadora de IMC](https://github.com/ViniciosPereira-dev/calculadora-imc) – HTML, CSS e JS puro  
+- [Calculadora de IMC] – HTML, CSS e JS puro  
 - Projeto com APIs – ViaCep | OpenWeather |   
 
 
