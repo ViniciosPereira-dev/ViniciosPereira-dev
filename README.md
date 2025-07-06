@@ -1,16 +1,16 @@
-## Hi there 👋
+# Vinicios Rosa Pereira
 
-<!--
-**ViniciosPereira-dev/ViniciosPereira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de DSM na FATEC Votorantim  
+💻 Foco em desenvolvimento Front-End (HTML, CSS, JavaScript)  
+🚀 Buscando minha primeira oportunidade como estagiário ou dev júnior  
 
-Here are some ideas to get you started:
+## Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Calculadora de IMC](https://github.com/ViniciosPereira-dev/calculadora-imc) – HTML, CSS e JS puro  
+- Projeto com APIs – ViaCep | OpenWeather |   
+
+
+## Contato
+
+📧 viniciosrp.dev@hotmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/vinicios-rosa-182360351)
