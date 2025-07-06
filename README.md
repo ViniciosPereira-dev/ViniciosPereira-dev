@@ -8,7 +8,7 @@
 
 ## 📌 Projetos
 
-- 🔢 [Calculadora de IMC](https://github.com/ViniciosPereira-dev/calculadora-imc)
+- 🔢 [Calculadora de IMC]
 - 🌐 Projeto com API de clima e bandeiras
 - 💡Projeto - Portifolio (em breve)
 
