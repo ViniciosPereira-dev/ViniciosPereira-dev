@@ -19,5 +19,4 @@
 
 📧 viniciosrp.dev@hotmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vinicios-rosa-182360351)
-
 📞 - (15) 998343932
