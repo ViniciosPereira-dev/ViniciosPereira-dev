@@ -8,9 +8,10 @@
 
 ## 📌 Projetos
 
-- 🔢 [Calculadora de IMC]
-- 🌐 Projeto com API de clima e bandeiras
-- 💡Projeto - Portifolio (em breve)
+- 🔢  Projeto Calculadora IMC
+- 🌐  Projeto com API de clima e bandeiras
+- 💡  Projeto - Portifolio
+- 📋  Projeto - To-do List
 
 ---
 
