@@ -1,7 +1,7 @@
 # 👨‍💻 Vinicios Pereira
 
 🎓 Estudante de DSM | FATEC Votorantim  
-💻 Front-End: HTML, CSS, JavaScript  
+💻 Tecnologias: HTML, CSS, JavaScript  
 🚀 Em busca da primeira vaga como Estagiário ou Dev Júnior
 
 ---
