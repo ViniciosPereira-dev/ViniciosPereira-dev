@@ -1,10 +1,10 @@
 # 👨‍💻 Vinicios Pereira
 
-🎓 Estudante de Desenvolvimento de Software Multiplataforma (DSM) – FATEC Votorantim
-💻 Focado em Desenvolvimento Backend com Java e Spring Boot
-🚀 Buscando minha primeira oportunidade como Estagiário ou Desenvolvedor Júnior
+## 📌 Sobre mim
 
----
+- 🎓 Estudante de **DSM – FATEC Votorantim**
+- 💻 Focado em **Backend com Java e Spring Boot**
+- 🚀 Buscando **estágio ou vaga de desenvolvedor júnior**
 
 ## 🛠️ Tecnologias
 
