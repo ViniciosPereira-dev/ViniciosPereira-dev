@@ -2,7 +2,7 @@
 
 🎓 Estudante de Desenvolvimento de Software Multiplataforma (DSM) – FATEC Votorantim
 💻 Focado em Desenvolvimento Backend com Java e Spring Boot
-🚀 Buscando minha primeira oportunidade como Estagiário ou Desenvolvedor Júnior**
+🚀 Buscando minha primeira oportunidade como Estagiário ou Desenvolvedor Júnior
 
 ---
 
